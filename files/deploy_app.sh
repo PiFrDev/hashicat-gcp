@@ -9,7 +9,9 @@ cat << EOM > /var/www/html/index.html
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
+  <!-- <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center> -->
+  <center><img src="https://miro.medium.com/max/545/0*2-Eyak8AllUybGAN"></img></center>
+  
   <center><h2>Meow World!</h2></center>
   Welcome to ${PREFIX}'s app. My catchy text xD.
   <!-- END -->
